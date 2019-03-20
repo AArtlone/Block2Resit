@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pointable
+  - Floor
+  - Teleportable
+  - Yellow
+  - Green
+  - Pink
+  - Red
+  - Blue
+  - Match3Image
+  - StartMatch3
+  - ControllerPointer
+  - Fader
+  - Special
+  - StartCircuit
+  - StartSpecialGem
+  - BlueSG
+  - RedSG
+  - YellowSG
+  - PinkSG
+  - GreenSG
+  - SG
+  - ShuffleCircuit
+  - ShuffleSG
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

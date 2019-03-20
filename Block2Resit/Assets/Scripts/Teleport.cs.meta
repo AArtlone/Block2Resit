@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61dbf892b34e9624592479711f55bcd1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1735724824849492, guid: 3cb9f1593c527fb4f9d7bac2bcb16ffa, type: 2}
+  - playerDirection: {instanceID: 0}
+  - getRaycastShooter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
